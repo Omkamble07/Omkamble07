@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Om Kamble</h1>
 <h3 align="center">Aspiring AI Engineer</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/818a26d8-904e-4c9a-9d85-1d2e46640195)
-">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkamble07&label=Profile%20views&color=0e75b6&style=flat" alt="omkamble07" /> </p>
 
