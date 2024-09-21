@@ -1,3 +1,4 @@
+![logo](https://github.com/Omkamble07/Omkamble07/blob/main/om_github.jpg)
 <h1 align="center">Hi 👋, I'm Om Kamble</h1>
 <h3 align="center">Learning, growing, and building the future of AI</h3>
 
